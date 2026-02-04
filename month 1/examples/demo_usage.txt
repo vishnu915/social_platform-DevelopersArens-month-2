@@ -1,0 +1,5 @@
+1. Run main.py
+2. Choose Notes Manager
+3. Add note
+4. Restart program
+5. Note is still saved
